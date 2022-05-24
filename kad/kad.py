@@ -1,10 +1,6 @@
-def to_kad(dictionary: dict) -> Kad:
-    kad = Kad()
+def to_kad(dictionary: dict) -> object:
+    kad = object()
     for key in dictionary.keys():
         setattr(kad, key, dictionary[key])
     return kad
-
-class Kad:
-    def __init__(self):
-        pass
     
