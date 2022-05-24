@@ -1,6 +1,6 @@
 # KAD
 
-`Keys as Dots` is a simple Python package that allows usage of dots in place of dictionary keys.
+`Keys as Dots` is a simple Python package that allows usage of dots in place of dictionary keys.(aka creates object with attributes instead of keys)
 
 Find this project on [PyPi](https://pypi.org/project/kad/).
 
