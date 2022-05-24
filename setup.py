@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import os
 
-VERSION = '1.0.0'
+VERSION = '1.0.1'
 DESCRIPTION = 'Use dictionary keys as attributes'
 LONG_DESCRIPTION = 'A package that allows dictionaries to be used with dots rather than keys'
 
